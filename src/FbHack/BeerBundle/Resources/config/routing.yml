@@ -1,0 +1,3 @@
+fb_hack_beer_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: FbHackBeerBundle:Default:index }
